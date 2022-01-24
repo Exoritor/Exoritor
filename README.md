@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Exoritor
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning JS and VUE.
-- 💞️ I’m looking to collaborate on ...(atm propably no)
+- 💞️ I’m looking to collaborate on ...(atm probably no)
 - 📫 How to reach me ...this site.
 
 <!---
